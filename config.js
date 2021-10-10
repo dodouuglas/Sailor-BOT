@@ -517,7 +517,7 @@ module.exports = kconfig = async (kill, message) => {
 			break*/
 
 			case 'sobre':
-					await kill.sendText(from, 'pra quem não me conhece:\n\n- nome: agiota\n- Idade:11\n- Sexualidade: Só com mulheres\n- 43 Passaportes rasgados \n- Deita os outros com 2 socos\n- Puxador de dados\n- raspador de cabelo\n- Dominei o C.V \n- Faço uma pt virar uma sub\n- Glock com silenciador\n- cura lésbica\n- 171 e 157 \n- Fabricante de arma \n- Fabricante de municao \n- Odeio Free fire\n- nunca perdi uma fuga \n- Terror da SWAT\n- 100k na conta do paypal\n- 2 vídeos no xvideos')
+					await kill.sendText(from, 'pra quem não me conhece:\n\n- nome: agiota\n- Idade:11\n- Sexualidade: Só a nathy\n- 43 Passaportes rasgados \n- Deita os outros com 2 socos\n- Puxador de dados\n- raspador de cabelo\n- Dominei o C.V \n- Faço uma pt virar uma sub\n- Glock com silenciador\n- cura lésbica\n- 171 e 157 \n- Fabricante de arma \n- Fabricante de municao \n- Odeio Free fire\n- nunca perdi uma fuga \n- Terror da SWAT\n- 100k na conta do paypal\n- 2 vídeos no xvideos')
 				break
 
 			case 'glink':
